@@ -1,0 +1,16 @@
+.list_section {
+    display: flex;
+   width: auto;
+}
+
+.list{
+    color: #0049ff;
+    text-align: left;
+    font-family: Mukta, sans-serif;
+    margin: 5px auto;
+}
+
+ul li::marker { 
+    text-align: left;
+    content: none; /* Убирает маркеры у элементов списка */ 
+}

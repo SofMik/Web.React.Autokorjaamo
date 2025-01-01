@@ -1,0 +1,31 @@
+.nav_button
+{
+  margin: 20px auto;
+  width: 160px;
+  height:30px;
+  padding: 0.7rem;
+  border: solid 1.5px white;
+  border-radius: 3px;
+  cursor: pointer;
+  background-color: #2B7DED;
+  transition: all 0.7s;
+  cursor: pointer;
+  font-family: 'Patrick Hand', cursive;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 1rem;  
+  text-decoration: none;
+  text-align: center;
+}
+
+.nav_button:hover{
+  box-shadow: inset 0 2px 40px 3px rgb(11, 41, 86), inset 0 2px 0 #3e5f97, 0 2px 0 #1a3b69;
+  color:#0040e2;
+  }
+
+@media (max-width: 450px) {
+  .nav_button {
+      font-size: 0.7rem;  
+  } 
+}

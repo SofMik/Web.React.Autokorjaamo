@@ -1,0 +1,75 @@
+.priselist {
+    margin: 20px auto; 
+    max-width: 800px;
+} 
+
+.priselist-header{
+  color: #2B7DED;
+  font-family: 'Train One', cursive;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+}    
+    
+.table { 
+  display: grid; 
+  grid-template-columns: repeat(3, 1fr); 
+  border: 1px solid #2B7DED;
+  background-color: #dee8f3;
+  margin: 10px; 
+}
+
+.table-header, .table-row {
+  display: contents; /* Включаем элементы строк напрямую в родительскую сетку */  
+  font-family: Mukta, sans-serif;
+  font-size: 1rem;
+  color: black;
+  text-align: left;
+}
+
+.table-item {
+  color: #006aff;
+  padding: 10px; 
+  border: 1px solid #0059d6;
+  letter-spacing: 1px;
+  font-family: 'Train One', cursive;
+}
+
+.table-cell { 
+  padding: 8px;
+  border: 1px solid #2B7DED;
+} 
+
+@media (max-width: 700px) {
+  .table-item {
+      font-size: 0.8rem;
+      letter-spacing: 0.5px;
+  }
+}
+
+@media (max-width: 500px) {
+  .priselist-header{
+      font-size: 1rem;
+      letter-spacing: 1px;
+  } 
+  .table-item {
+      font-size: 0.8rem;
+      letter-spacing: 0.2px;
+  }
+  .table-row {
+      font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .priselist-header{
+      font-size: 0.8rem;
+      letter-spacing: 1px;
+  } 
+  .table-item {
+      font-size: 0.6rem;
+      letter-spacing: 0.2px;
+  }
+  .table-row {
+      font-size: 0.6rem;
+  }
+}

@@ -1,0 +1,26 @@
+
+.article {
+    font-family: Mukta, sans-serif;
+    text-align: left;
+    color: white;
+    letter-spacing: 1.5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    margin: 0 auto;
+}
+
+.highlight { 
+    color: #2B7DED;
+    font-family: 'Train One', cursive;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+ }
+
+@media (max-width: 600px) {
+    .article {
+         font-size: 0.8rem;  
+    }
+    .highlight {
+      font-size: 0.8rem;  
+ }
+  }

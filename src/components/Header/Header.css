@@ -1,0 +1,82 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around; 
+    margin: 75px 10px 15px 10px;    
+}
+
+.header_text{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around; 
+    flex-wrap: wrap;
+    width: auto; 
+    text-align: right;
+    letter-spacing: 1px; 
+    margin-right: 5px;
+}
+
+.h2 {
+    font-family: 'Train One', cursive;
+    color: #2B7DED;
+    font-size: 1.6rem;   
+}
+
+.h3 {
+    font-family: 'Train One', cursive;
+    color:white;
+    font-size: 1.6rem;
+    
+}
+
+.header img {
+    display: flex;
+    align-items: center;
+    width: auto; 
+}
+
+@media (max-width: 830px) {
+    .header {
+        margin-top: 75px;
+    }
+    .h3 {
+        font-size: 1.3rem;  
+    }
+    .h2 {
+        font-size: 1.3rem;
+    }
+    .header img {
+        width: 70%;
+    }
+  }
+
+@media (max-width: 650px) {
+    .header {
+        margin-top: 60px;
+    }
+    .h3 {
+        font-size: 1.0rem;  
+    }
+    .h2 {
+        font-size: 1.0rem;
+    }
+    .header img {
+        width: 60%;
+    }
+}
+
+@media (max-width: 475px) {
+    .h3 {
+        font-size: 0.6rem;  
+    }
+    .h2 {
+        font-size: 0.6rem;
+    }
+    .header {
+        margin-top: 115px;
+    }
+    .header img {
+        width: 50%;
+    }
+}
