@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Web.React.Autokorjaamo/static/css/main.6df9e7f3.css",
+    "main.js": "/Web.React.Autokorjaamo/static/js/main.38ca53a9.js",
+    "static/media/foto_4.jpg": "/Web.React.Autokorjaamo/static/media/foto_4.289ccb4509fcaa7dc58f.jpg",
+    "static/media/foto_3.jpg": "/Web.React.Autokorjaamo/static/media/foto_3.b0c2b9f4a83e1673eed5.jpg",
+    "static/media/home_foto.jpg": "/Web.React.Autokorjaamo/static/media/home_foto.5455377327741f228276.jpg",
+    "static/media/contact_foto.jpg": "/Web.React.Autokorjaamo/static/media/contact_foto.655a2a1d6e55c1ea62ec.jpg",
+    "static/media/card_3.jpg": "/Web.React.Autokorjaamo/static/media/card_3.ffa23e98e763f7d1ae6a.jpg",
+    "static/media/card_2.jpg": "/Web.React.Autokorjaamo/static/media/card_2.e72b306de5feed518e6d.jpg",
+    "static/media/foto_5.jpg": "/Web.React.Autokorjaamo/static/media/foto_5.014e05a88ee48eabe155.jpg",
+    "static/media/foto_2.jpg": "/Web.React.Autokorjaamo/static/media/foto_2.833dbf7b188bf1d49e58.jpg",
+    "static/media/foto_6.jpg": "/Web.React.Autokorjaamo/static/media/foto_6.436aa6c7dd67b0a35834.jpg",
+    "static/media/gallery_main.jpg": "/Web.React.Autokorjaamo/static/media/gallery_main.30298472954cf8d1f800.jpg",
+    "static/media/foto_1.jpg": "/Web.React.Autokorjaamo/static/media/foto_1.67d1118c0d42ce398e86.jpg",
+    "static/media/card_1.jpg": "/Web.React.Autokorjaamo/static/media/card_1.3bd4786e6079f0990c28.jpg",
+    "static/media/palvelut_foto.jpg": "/Web.React.Autokorjaamo/static/media/palvelut_foto.8f8b57a743309c7f960c.jpg",
+    "static/media/ajankohtaista_main.jpg": "/Web.React.Autokorjaamo/static/media/ajankohtaista_main.1bc979094a1976694d50.jpg",
+    "static/media/palvelut_main.jpg": "/Web.React.Autokorjaamo/static/media/palvelut_main.b31fc7f179707525c63b.jpg",
+    "static/media/etusivu_main.jpg": "/Web.React.Autokorjaamo/static/media/etusivu_main.703e714793deb0228f56.jpg",
+    "static/media/contact_main.jpg": "/Web.React.Autokorjaamo/static/media/contact_main.ada8654632f851bb5442.jpg",
+    "index.html": "/Web.React.Autokorjaamo/index.html",
+    "main.6df9e7f3.css.map": "/Web.React.Autokorjaamo/static/css/main.6df9e7f3.css.map",
+    "main.38ca53a9.js.map": "/Web.React.Autokorjaamo/static/js/main.38ca53a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6df9e7f3.css",
+    "static/js/main.38ca53a9.js"
+  ]
+}
