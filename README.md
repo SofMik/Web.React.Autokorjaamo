@@ -41,5 +41,5 @@ SofMik, student web developer
 ---
 
 ## Screenshot
-![](public/screenshot.web.contact.png)
+![](public/screenshot.contact.readme.png)
 
