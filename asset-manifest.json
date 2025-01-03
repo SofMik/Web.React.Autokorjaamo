@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Web.React.Autokorjaamo/static/css/main.6df9e7f3.css",
-    "main.js": "/Web.React.Autokorjaamo/static/js/main.38ca53a9.js",
+    "main.js": "/Web.React.Autokorjaamo/static/js/main.b3a8ea75.js",
     "static/media/foto_4.jpg": "/Web.React.Autokorjaamo/static/media/foto_4.289ccb4509fcaa7dc58f.jpg",
     "static/media/foto_3.jpg": "/Web.React.Autokorjaamo/static/media/foto_3.b0c2b9f4a83e1673eed5.jpg",
     "static/media/home_foto.jpg": "/Web.React.Autokorjaamo/static/media/home_foto.5455377327741f228276.jpg",
@@ -21,10 +21,10 @@
     "static/media/contact_main.jpg": "/Web.React.Autokorjaamo/static/media/contact_main.ada8654632f851bb5442.jpg",
     "index.html": "/Web.React.Autokorjaamo/index.html",
     "main.6df9e7f3.css.map": "/Web.React.Autokorjaamo/static/css/main.6df9e7f3.css.map",
-    "main.38ca53a9.js.map": "/Web.React.Autokorjaamo/static/js/main.38ca53a9.js.map"
+    "main.b3a8ea75.js.map": "/Web.React.Autokorjaamo/static/js/main.b3a8ea75.js.map"
   },
   "entrypoints": [
     "static/css/main.6df9e7f3.css",
-    "static/js/main.38ca53a9.js"
+    "static/js/main.b3a8ea75.js"
   ]
 }
