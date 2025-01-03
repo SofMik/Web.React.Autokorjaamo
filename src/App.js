@@ -11,7 +11,7 @@ import NavSection from './components/NavSection/NavSection';
 
 export default function App() {
   return ( 
-    <Router> 
+    <Router basename="/Web.React.Autokorjaamo">
       <div className="App"> 
         <NavSection /> 
         <main className='main'> 
