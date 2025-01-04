@@ -41,7 +41,7 @@ SofMik, student web developer
 ---
 
 # Web React Autokorjaamo 
-[Посетите сайт](https://sofmik.github.io/Web.React.Autokorjaamo/)
+[Visit site](https://sofmik.github.io/Web.React.Autokorjaamo/)
 
 ---
 
